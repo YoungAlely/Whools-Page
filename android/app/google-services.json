@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "732702421499",
+    "project_id": "whools-proyect",
+    "storage_bucket": "whools-proyect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732702421499:android:980ba7a0762820e891db5e",
+        "android_client_info": {
+          "package_name": "com.example.whools"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIWR_bobWmCb_OiM3Y7SBMMSPjyfkwEQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

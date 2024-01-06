@@ -1,0 +1,35 @@
+{
+    "name": "Whools",
+    "short_name": "Whools",
+    "start_url": "https://www.whools.xyz",
+    "display": "standalone",
+    "background_color": "#010101",
+    "theme_color": "#0175C2",
+    "description": "Perfecto encontraste el Manifest, sigue asi campeon",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": true,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}

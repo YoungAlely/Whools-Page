@@ -1,0 +1,5 @@
+@for $i from 1 through 8 {
+    .load1 path:nth-of-type(#{$i}) {
+      animation: 2s cubic-bezier(0.19, 1, 0.22, 1) (.15s * $i)  infinite spinHalf;
+    }
+  }
